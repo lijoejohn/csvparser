@@ -13,6 +13,13 @@ What things you need to install the software and how to install them
 	Web Server 	- Node js
 	NPM Module	- express,path,formidable,fs
 
+### Running the app
+
+To run the application close the code set to your local mechine using the clone url https://github.com/lijoejohn/csvparser.git
+
+	open terminal on the cloned folder
+	node server.js / nodejs server.js
+
 ## CSV Parser Config Changes
 
 	### Change the port number as per your wish on server.js

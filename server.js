@@ -40,3 +40,4 @@ app.post('/file_upload', function(req, res)
 });
 //Node server listening to the port 3000
 app.listen(3000);
+console.log("Your server is listening on port 3000 , Open http://localhost:3000 in browser");
