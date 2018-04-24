@@ -23,4 +23,4 @@ What things you need to install the software and how to install them
 * Vue.js (Vue.js - The Progressive JavaScript Framework https://vuejs.org/). 
 
 ### Front End:
-* A modern JavaScript enabled browser is required to use CSV Parser.  We recommend a current version of Firefox or Chrome. 
+* A modern JavaScript enabled browser is required to use CSV Parser.  We recommend a current version of Firefox or Chrome . 
